@@ -1,0 +1,56 @@
+@font-face {
+	font-family: 'PlayfairDisplay';
+	font-style: normal;
+	font-weight: 700;
+	src: url('./PlayfairDisplay-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PlayfairDisplay';
+	font-style: normal;
+	font-weight: 600;
+	src: url('./PlayfairDisplay-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PlayfairDisplay';
+	font-style: normal;
+	font-weight: 500;
+	src: url('./PlayfairDisplay-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PlayfairDisplay';
+	font-style: normal;
+	font-weight: 400;
+	src: url('./PlayfairDisplay-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	src: url('./Poppins-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	src: url('./Poppins-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: 'Poppins Italic';
+	font-style: normal;
+	font-weight: 700;
+	src: url('./Poppins-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Poppins Italic';
+	font-style: normal;
+	font-weight: 400;
+	src: url('./Poppins-Italic.ttf') format('truetype');
+}
