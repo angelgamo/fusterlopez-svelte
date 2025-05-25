@@ -1,8 +1,13 @@
+<svelte:head>
+	<title>Fuster&Lopez</title>
+	<meta name="description" content="Descubre los proyection de inversion, valores, nuestras empresas, que hacen único a fuster & lópez." />
+</svelte:head>
+
 <div class="h-dvh flex flex-col justify-center items-center">
     <div class="background-image">
         <enhanced:img src="$lib/assets/images/OIP.jpg?grayscale&blur" alt="An alt text" sizes="min-height(322px, 100dvh)" class="background-image" />
     </div>
-    <enhanced:img src="$lib/assets/images/Logo_FD.png?w=250" alt="An alt text"/> 
+    <enhanced:img src="$lib/assets/images/Logo_FD.webp?w=250" alt="An alt text"/> 
     <h1 class="text-Principal text-[var(--Principal)] text-center">Solidez, Fiabilidad
         <br>
         <strong>Futuro exitoso</strong>
