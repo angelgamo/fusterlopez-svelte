@@ -30,7 +30,7 @@
 </div>
 
 <div class="py-15 px-8 flex flex-col gap-3 relative text-white">
-    <div class="absolute inset-0 left-[-33vw] right-[30%] z-[-1] bg-[rgb(16,7,9)] bg-[url($lib/assets/images/pattern.png)]"></div>
+    <div class="absolute inset-0 left-[-33vw] right-[30%] z-[-1] bg-[rgb(16,7,9)] bg-[url($lib/assets/images/pattern.webp)]"></div>
     <h1 class="text-Principal text-[var(--Principal)]">Misión y <strong>Valores</strong></h1>
     <div class="w-1/2 flex flex-col gap-8">
         <p class="text-Enfasis">Nuestra misión es <strong>crear valor sostenible para nuestros accionistas</strong>, clientes y socios a través de una gestión sólida y una visión estratégica a largo plazo. <strong>Nos esforzamos por ser líderes en los sectores en los que participamos, manteniendo altos estándares de ética empresarial y responsabilidad social.</strong></p>
@@ -82,7 +82,7 @@
 </div>
 
 <div class="py-15 px-8 flex flex-col gap-3 relative text-white mb-15">
-    <div class="absolute inset-0 left-[-33vw] right-[25%] z-[-1] bg-[rgb(16,7,9)] bg-[url($lib/assets/images/pattern.png)]"></div>
+    <div class="absolute inset-0 left-[-33vw] right-[25%] z-[-1] bg-[rgb(16,7,9)] bg-[url($lib/assets/images/pattern.webp)]"></div>
     <h1 class="text-Principal text-[var(--Principal)]">Contacto</h1>
     <div class="w-1/2 flex flex-col gap-8">
         <p class="text-Enfasis">Únete a nuestra familia de inversionistas</p>

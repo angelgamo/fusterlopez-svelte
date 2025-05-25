@@ -23,7 +23,7 @@
 {@render children()}
 
 <div class="py-20 px-8 flex flex-col gap-3 relative text-white">
-    <div class="absolute inset-0 left-[-33vw] right-[-33vw] z-[-1] bg-[rgb(16,7,9)] bg-[url($lib/assets/images/pattern.png)]"></div>
+    <div class="absolute inset-0 left-[-33vw] right-[-33vw] z-[-1] bg-[rgb(16,7,9)] bg-[url($lib/assets/images/pattern.webp)]"></div>
 	<div class="m-auto flex flex-col items-center *:text-[var(--Principal)]">
 		<enhanced:img src="$lib/assets/images/Logo_FB.png?grayscale&w=150" alt="An alt text"/>
 		<a class="text-Enfasis" href= "mailto: fusterandlopez@fusterandlopez.com">fusterandlopez@fusterandlopez.com</a>
